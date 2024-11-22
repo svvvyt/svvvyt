@@ -1,7 +1,7 @@
 ## 🙋‍♂️ About me
 Hello, my sweetheart 👋, I'm Svyatoslav!
-I've completed my bachelor's degree in Management at Saratov State University.
-I'm currently pursuing a master's degree in Software Engineering.
+- I've completed my bachelor's degree in Management at Saratov State University.
+- I'm currently pursuing a master's degree in Software Engineering at St. Petersburg Electrotechnical University 'LETI.'.
 - 📫 How to reach me: 
     - Telegram - [@sv_y_ttt](https://t.me/sv_y_ttt)
     - Mail - [lolovishka@mail.ru](lolovishka@mail.ru)
