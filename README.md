@@ -34,12 +34,6 @@ I'm currently pursuing a master's degree in Software Engineering.
 <div align="center">
 
 <table>
-    <thead>
-        <tr>
-        <th width="130px"></th>
-        <th width="870px"></th>
-        </tr>
-    </thead>
       <tr><td style="width: 130px;">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
         </td><td>
