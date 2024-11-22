@@ -108,7 +108,7 @@ Hello, my sweetheart 👋, I'm Svyatoslav!
         <img src="https://img.shields.io/badge/Other-545454.svg?style=for-the-badge" alt="Other"/>
         </td><td>
         <strong>Languages:</strong> PowerShell, Bash, CLIPS, Promela<br>
-        <strong>OS:</strong> Windows, Linux (Ubuntu), macOS<br>
+        <strong>OS:</strong> Windows, Linux (Ubuntu), macOS, Zephyr RTOS<br>
         <strong>Version Control:</strong> Git, GitHub <br>
         <strong>Message brokers:</strong> RabbitMQ, Redis(as mb) <br>
         <strong>CI/CD:</strong> GitHub Actions <br>
