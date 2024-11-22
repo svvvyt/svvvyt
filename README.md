@@ -34,14 +34,20 @@ I'm currently pursuing a master's degree in Software Engineering.
 <div align="center">
 
 <table>
-      <tr><td style="width: 130px;">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        </td><td>
-        <strong>Web Frameworks:</strong> React, Vue, Angular, Svelte<br>
-        <strong>Backend Frameworks:</strong> Express, Nest, Fastify<br>
-        <strong>API:</strong> axios<br>
-        <strong>Libraries:</strong> WebGL, jQuery<br>
-        <strong>Build Tools:</strong> Gulp, Webpack<br>
+    <thead>
+        <tr>
+        <th width="130px"></th>
+        <th width="870px"></th>
+        </tr>
+    </thead>
+    <tr><td style="width: 130px;">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      </td><td>
+      <strong>Web Frameworks:</strong> React, Vue, Angular, Svelte<br>
+      <strong>Backend Frameworks:</strong> Express, Nest, Fastify<br>
+      <strong>API:</strong> axios<br>
+      <strong>Libraries:</strong> WebGL, jQuery<br>
+      <strong>Build Tools:</strong> Gulp, Webpack<br>
     </td></tr>
     <tr><td style="width: 130px;">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
